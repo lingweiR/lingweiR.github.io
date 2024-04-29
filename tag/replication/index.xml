@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Replication | Wei Ling</title>
+    <link>http://localhost:1313/tag/replication/</link>
+      <atom:link href="http://localhost:1313/tag/replication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Replication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_huab48136a9acc03bc0cb63cf312635f9a_125770_512x512_fill_lanczos_center_3.png</url>
+      <title>Replication</title>
+      <link>http://localhost:1313/tag/replication/</link>
+    </image>
+    
+    <item>
+      <title>Replicate &#39;Size and Value in China (JFE, 2019)&#39;</title>
+      <link>http://localhost:1313/project/replicate-size-and-vaue-in-china/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/replicate-size-and-vaue-in-china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replicate &#39;The Causal Effect of Limits to Arbitrage on Asset Pricing Anomalies (JF, 2020)&#39;</title>
+      <link>http://localhost:1313/project/replicate-limits-to-arbitrage/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/replicate-limits-to-arbitrage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
